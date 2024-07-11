@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Superbiodun09
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning css and javascript 
-- 💞️ I’m looking to collaborate on web Developing 
+- 👀 I’m interested in data Analysis
+- 🌱 I’m currently learning Data Visualisation
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me: WhatsApp @+2347014832054
 
 <!---
